@@ -1472,7 +1472,7 @@ a:hover {
 #comments ol.commentlist li ul.children .depth-5 {
   padding-left: 40px;
   border-left: 1px solid #EDEDED;
-  background: url('assets/images/comment-nav.png') 0 45px no-repeat;
+  /*background: url('assets/images/comment-nav.png') 0 45px no-repeat;*/
   clear: left;
 }
 #comments ol.commentlist .nocomments {
@@ -2577,8 +2577,8 @@ span.error {
   }
   .site-header ul,
   .site-header li {
-    float: none
-        overflow: hidden;
+    float: none;
+    overflow: hidden;
   }
   .site-header #navigation > ul {
     padding-left: 0;
